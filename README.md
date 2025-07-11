@@ -108,4 +108,6 @@ Copy the special character from below and paste it in between the text while edi
 
 ---
 
-### ⭐ Feel free to Star the Repository if this helped you! ;)
+### ⭐ Feel free to Star the original Repository if this helped you! 
+
+https://github.com/HeySkidee/discord-text-exploit
