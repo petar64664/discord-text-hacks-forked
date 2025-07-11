@@ -1,3 +1,5 @@
+# THIS IS A FORK. Oiginal repository link can be found [here](https://example.com).
+
 # Discord text illusion tricks
 
 A collection of strange and exploitable text illusions in the Discord app
